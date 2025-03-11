@@ -52,7 +52,7 @@ function App() {
                 </a>
               </div>
               <div className="text-sm text-center">
-                <p>© 2024 GridFiable. All rights reserved. Created by Aouf Nihed</p>
+                <p>© 2025 GridFiable. All rights reserved. Created by Aouf Nihed</p>
               </div>
             </div>
           </div>
